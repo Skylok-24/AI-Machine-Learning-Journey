@@ -37,8 +37,8 @@ This Journy is a work in progress. Each project represents a step toward develop
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/Skylok-24)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/)
+- **GitHub:** [GitHub](https://github.com/Skylok-24)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/)
 
 ---
 
